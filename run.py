@@ -72,7 +72,7 @@ class TestUnderwriting(unittest.TestCase):
         # self.option3_yearfee = ex.readsheet(self.year_sheet5, 3, u"首年")
         # self.option3_yearfee = ex.readsheet(ex.readexcel(xlsxPath, u"趸交费率v可选3"), 3, u"续年")
 
-        print('test start')
+        print('test start1')
 
     def test_a(self):
         """测试"""
