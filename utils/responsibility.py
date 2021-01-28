@@ -56,7 +56,7 @@ def getResponsibility():
 # print inputlist
 # print responsibilityCodes
 # print num
-# 	print (responsibilityCodes)
+	print (responsibilityCodes)
 	return responsibilityCodes
 
 def get_totalfee(resp,amount,mainfee,optional1fee,optional2fee,optional3fee):
